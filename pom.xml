@@ -5,7 +5,7 @@
 
 	<groupId>com.github.Sanjeev139</groupId>
 	<artifactId>testCiCd002</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Aritmetic Test Library</name>
